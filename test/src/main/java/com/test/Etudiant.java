@@ -4,6 +4,8 @@ public class Etudiant {
 	String nom;
 	String prenom;
 	int age;
+	String cin;
+	
 	public String getNom() {
 		return nom;
 	}
